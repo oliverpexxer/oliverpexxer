@@ -1,16 +1,16 @@
-## Hi there 👋
+## Road to Cloud Engineer
 
-<!--
-**oliverpexxer/oliverpexxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is my way to become a **Cloud Engineer** and have finally the opportunity to be always by my family.
 
-Here are some ideas to get you started:
+When I don't study you can find me on [Instagram](www.instagram.com/oliverpexxer) and watch me styling my apartment or train for an Ironman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Road to Cloud
+- [x] Linux & Bash Basics
+    - [x] Version Control
+    - [] Cloud CLI setup
+    - [] Infrastructure as Code
+    - [] SSH
+
+
+cheers,
+Olli ✌🏻
